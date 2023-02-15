@@ -1,0 +1,47 @@
+Kaşarlı Pide
+Kuşbaşılı Pide
+Kıymalı Pide
+Kavurmalı Pide
+Kuşbaşılı Kaşarlı
+Kıymalı Kaşarlı
+Kavurmalı Kaşarlı
+85
+95
+90
+95
+100
+95
+100
+PİDELER
+Pastırmalı Kaşarlı 100
+Sucuklu Pide
+Sucuklu Kaşarlı Pide
+BafraPide
+95
+100
+95
+Mantarlı Pide
+Trabzon Pide
+95
+95
+Karadeniz Pide 95
+Fındık Lahmacun
+Kaşarlı Lahmacun
+Sarımsaklı Lahmacun
+Lahmacun
+Cevizli Lahmacun
+20
+50
+50
+45
+50
+LAHMACUNLAR
+Garden Burger
+Tavuk Burger
+Classic Burger
+Cheddar Burger
+95
+65
+75
+80
+BURGERLER
